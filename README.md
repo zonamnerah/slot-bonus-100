@@ -1,4 +1,4 @@
-# slot-online
+# slot-online-bonus-100
 
 ## [>> BONUS SLOT 100% NEW MEMBER <<](https://rebrand.ly/JOINLT88SPORT)
 
