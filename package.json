@@ -1,0 +1,18 @@
+{
+  "name": "slot-online-link",
+  "theme": "slot online ",
+  "version": "1.1.0",
+  "description": "MAINSLOT338 – SITUS SLOT ONLINE AMAN DAN TERPERCAYA",
+  "keywords": [
+    "slot",
+    "slot online",
+    "bandar slot",
+    "pragmatic",
+    "slot gacor"
+  ],
+  "repository": "https://github.com/maria338bola/slot-online-link",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
